@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"> 
+        <title>SK University webpage</title>
+        <link rel="stylesheet" href="University.css">
+        <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    </head>
+    <body>
+        <section class="header">
+            <nav>
+                <a href="About.html"><img src="image/skulogo.png"</a>
+                <div class="nav-links">
+                    
+                    <ul>
+                        <li><a href="University.html">HOME</a></li>
+                        <li><a href="About.html">ABOUT</a></li>
+                        <li><a href="course.html">COURSE</a></li>
+                        <li><a href="Blog.html">BLOG</a></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                
+            </nav>
+            <div class="text-box">
+                <h1>SRI KRISHNADEVARAYA UNIVERSITY ANANTAPUR</h1>
+                <p>Sri Krishnadevaraya University (SKU) is a public University in Anantapur, Ap University has 104 affiliated colleges and offers courses at UG, PG and PhD level in the fields of Science, Arts, Commerce, Education, Pharmacy and Engineering.</p><br>
+
+                <a href="About.html" class="btn">Visit us To Know More</a>
+            </div>
+            </section>
+            <br>
+
+          
+
+        
+        
+        <section class="content">
+            <div class="heading">
+                <h2>Courses we offer</h2>
+                <p>SKU College of Sciences has 16 Departments offering 19 PG courses. See More. College of Engineering & Technology. Sri Krishnadevaraya University College of ..</p>
+            </div>
+
+            <div class="course">
+            <div class="row">
+                <div class="col">
+                    <h2>B.Tech</h2>
+                    <p>Sri Krishnadevaraya University College of Engineering & Technology came into existence in the year 2006 to mark the silver jubilee celebrations of the university. It was established to carter to the needs of the technical education of the young generation of the region</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <h2>Post graduation</h2>
+                    <p>The Department is organizing the M.Sc., Courses in Mathematics and Applied Mathematics. The Student strength in each course is 20. The course content includes special topics such as Graph Theory, Computer Programming, Numerical Techiques</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <h2>Phd</h2>
+                    <p>Sri Krishnadevaraya University offers both full-time and part-time Doctor of Philosophy degrees to students. SKU offers a total of 28 doctoral programs. The full-time course duration is 2 years</p>
+                </div>
+            </div>
+            
+            <div>
+        </section>
+        
+        
+    
+<section class="content">
+            <div class="course">
+            <div class="row">
+                <div class="col">
+                    <h2>B.Pharmacy</h2>
+                    <p>At the UG level, SK University provides a 4 years Bachelor of Pharmacy (B.Pharm.) course to the students. To get admission to this course, aspiring students must meet the minimum eligibility requirements - 45.0% in 12th. The total cost for this course is INR 146000.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <h2>Law</h2>
+                    <p>SK University offers a 3 years Bachelor of Law (LL.B.) course at the UG level. SK University The total tuition fee for this course is INR 20850 for the entire duration of the course. To learn more about other courses offered under LL.B. at SK University</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <h2>Degree</h2>
+                    <p>Sri Krishnadevaraya University offers both full-time and part-time Doctor of Philosophy degrees to students. SKU offers a total of 28 doctoral programs. The full-time course duration is 2 years</p>
+                </div>
+            </div>
+            
+            <div>
+        </section>
+        <section>
+            <div class="campus">
+                <h1>Our University Campus</h1>
+                <p>Sri Krishnadevaraya University is a public university in Anantapur, Andhra Pradesh, India, founded on 25 July 1981. The university is named after a patron of learning and the arts, Sri Krishnadevaraya, of the Vijayanagara empire of the 16th century.</p>
+            
+    
+            <div class="main">
+            <div class="a">
+            <figure>
+        
+                <img src="image/WhatsApp Image 2024-05-28 at 4.30.59 PM.jpeg" alt="image/pic1" width=250 height=250>
+                <figcaption>img1</figcaption>
+            </figure></div>
+            </div>
+            <div class="main">
+                           <div class="a"> 
+                            <figure>
+                            
+                <img src="image/WhatsApp Image 2024-05-28 at 4.35.48 PM.jpeg" alt="image/" width=250 height=250>
+                <figcaption>img2</figcaption>
+                            
+                            </figure>
+                            </div>
+                            </div>
+                            <div class="main">
+                            <div class="a">
+                                <figure>
+                <img src="image/WhatsApp Image 2024-05-28 at 4.34.31 PM (1)(1)(1).png" alt="image/pic3" width=250 height=250>
+                <figcaption>img3</figcaption>
+                            
+                            </figure>
+                            </div>
+                            </div>
+            </div>
+            
+        </section>
+
+
+<section>
+    <div class="facilities">
+        <h1>Our facilities</h1>
+        <p>Situated in rural environs, 10 km away from Ananthapuramu city, in an extensive campus of 482 acres of land, the University has built extensive academic and administrative buildings, hostels, residential quarters, etc</p>
+    </div>
+
+    <div class="fa-row">
+    <div class="fa-col">
+    <figure>
+
+        <img src="image/library.jpg" alt="image" width=250 height=250>
+        <figcaption>Library</figcaption>
+    </figure></div>
+    </div>
+    <div class="fa-row">
+                   <div class="fa-col"> 
+                    <figure>
+                    
+        <img src="image/computer lab.jpg" alt="image/pic2" width=250 height=250>
+        <figcaption>Computer Lab</figcaption>
+                    
+                    </figure>
+                    </div>
+                    </div>
+                    <div class="fa-row">
+                    <div class="fa-col">
+                        <figure>
+        <img src="image/playground.jpg" alt="image/pic3" width=250 height=250>
+        <figcaption>Playground</figcaption>
+                    
+                    </figure>
+                    </div>
+                    </div>
+    
+</section>
+<section>
+
+
+    <div class="fa-row">
+    <div class="fa-col">
+    <figure>
+
+        <img src="image/auditorium.jpg" alt="image/pic1" width=250 height=250>
+        <figcaption>Auditorium</figcaption>
+    </figure></div>
+    </div>
+    <div class="fa-row">
+    <div class="fa-col"> 
+     <figure>
+                    
+        <img src="image/hostel1.jpg" alt="image/pic2" width=250 height=250>
+        <figcaption>Hostel</figcaption>
+                    
+    </figure>
+        </div>
+                </div>
+                    <div class="fa-row">
+                    <div class="fa-col">
+                        <figure>
+        <img src="image/innovation landspace.jpg" alt="image/pic3" width=250 height=250>
+        <figcaption>Incubation</figcaption>
+                    
+                    </figure>
+                    </div>
+                    </div>
+    
+</section>
+<section class="review">
+    <h1>Students review</h1>
+    <p>Absolutely satisfied because of knowledgeable and experienced teachers.</p>
+    <div class="review-row">
+        <div class="review-col">
+            <img src="image/photo prasad.jpeg" alt="image">
+            <p>This college is one of the most affordable, and they provide good education</p>
+            <h3>Prasad</h3>
+            <span class="material-symbols-outlined">
+                star
+                </span>
+                <span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+            
+        </div>
+        <div class="review-col">
+            <img src="image/WhatsApp Image 2024-05-28 at 5.12.10 PM.jpeg" alt="image">
+            <p>Absolutely satisfied because of knowledgeable and experienced teachers.</p>
+            <h3>Varapalli Venu</h3>
+            <span class="material-symbols-outlined">
+                star
+                </span>
+                <span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star_half
+                                </span>
+        
+        </div>
+    </div>
+
+</section>
+
+<section>
+    <div class="cta">
+    <h1>Enroll for our various online course </h1><br>
+    <a href="contact.html" class="btn">CONTACT US</a>
+</div>
+</section>
+
+<section class="footer">
+<h4>About Us</h4>
+<p>Contact-us ; Address. Registar. Sri Krishnadevaraya University. Anantapuram-515003, <br>Andhra Pradesh, India. ; Phone Number. 08554-255700(O) ; Email Address</p>
+        
+     <span>&bigstar;</span>   
+     <span>&bigstar;</span>
+     <span>&bigstar;</span>
+<span>&bigstar;</span>
+<span>&bigstar;</span>
+
+
+ 
+</section>
+
+
+ 
+    </body>
+</html>
